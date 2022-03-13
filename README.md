@@ -1,8 +1,9 @@
 # Ice-Station-Z-Save-Editor
 An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
-- [Download Executable](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8237012/Ice.Station.Z.Save.Editor.v1.zip)
-- [Download Source](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8237017/Script.v1.zip)
-- [Download Compiled](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8237019/Compiled.Script.v1.zip)
+- [Download Executable](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8240435/Ice.Station.Z.Save.Editor.V2.zip)
+- [Download Source](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8240434/Script.v2.zip)
+- [Download Compiled](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8240433/Compiled.Script.v2.zip)
+
 
 
 # Features:
@@ -28,4 +29,4 @@ An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
 - Cracko298
 - TheRealYunix
 - Gage.C
-- Spring~JEEP
+- Owl
