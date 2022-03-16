@@ -47,18 +47,18 @@ An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
 - Debugger.
 - Save Data Corruption Protection.
 - Error Window.
-- Download Executable
+- [Download Executable](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/blob/main/Versions/Ice%20Station%20Z%20Save%20Editor%20v1.zip?raw=true)
 
 # Version 0.75 (v0.75-alpha)
 - Data0 Editing Health Editing.
 - User Interface was added
 - Very Unstable (Bug, Not Feature).
 - Data Corrupts easily.
-- Not Downloadable.
+- [Not Downloadable](https://cracko298.xyz/ErrorDwnl.html)
 
 # Version 0.5 (v0.5-alpha)
 - No UI, Console Application Only.
 - No status editing.
 - Writes 0x0F27 to any file named Data2 and on the first Four Bytes.
 - Extremely Unstable.
-- Not Downloadable.
+- [Not Downloadable](https://cracko298.xyz/ErrorDwnl.html)
