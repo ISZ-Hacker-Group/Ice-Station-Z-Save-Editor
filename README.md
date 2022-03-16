@@ -1,12 +1,11 @@
 # Ice-Station-Z-Save-Editor
 An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
-- [Download Executable](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8240435/Ice.Station.Z.Save.Editor.V2.zip)
-- [Download Source](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8240434/Script.v2.zip)
-- [Download Compiled](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8240433/Compiled.Script.v2.zip)
+# Newest Release(s):
+- [Download Executable](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8273871/Ice.Station.Z.Save.Editor.V3.zip)
+- [Download Source](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8273866/Script.v3.zip)
+- [Download Compiled](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8273861/Compiled.Script.v3.zip)
 
-
-
-# Version 2.0 Features:
+# Version 3.0 Features:
 - All Save Slot Editing.
 - Includes Data3 Editing.
 - 9999 Health, Food, Water, Battery, Etc.
@@ -33,30 +32,39 @@ An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
 - [Original Save Editor](https://github.com/TheRealYunix/Ice-Station-Z-Save-Editor)
 - [Original Save-Editing Repository](https://github.com/Cracko298/Ice-Station-Z-Save-Editing)
 
-- Cracko298        *(Developer)*
-- TheRealYunix     *(Inspiration)*
-- Gage.C           *(Tester)*
-- Owl              *(Helped with Spawn-Point Coordinates)*
+- @Cracko298        *(Developer)*
+- @TheRealYunix     *(Inspiration)*
+- @GageCover        *(Tested Software)*
+- @OneEyedOwl       *(Tested Software)*
 
 # Legacy Version Feature(s):
 
-# Version 1.0 (v1.0-beta)
+# Version 2.0 (v2.0-beta):
+- All Save Slot Editing.
+- Includes Data3 Editing.
+- 9999 Health, Food, Water, Battery, Etc.
+- Two Spawn-Point Choices.
+- Better Debugger Information.
+- Better UI Elements
+- [Download Executable](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/blob/main/Versions/Ice%20Station%20Z%20Save%20Editor%20V2.zip?raw=true)
+
+# Version 1.0 (v1.0-beta):
 - Data0, Data1, Data2 Editing Full Satus Editing.
 - Fixed Status Bugs.
 - More Simpler/Flashy UI.
-- Debugger.
+- Debug Window.
 - Save Data Corruption Protection.
 - Error Window.
 - [Download Executable](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/blob/main/Versions/Ice%20Station%20Z%20Save%20Editor%20v1.zip?raw=true)
 
-# Version 0.75 (v0.75-alpha)
+# Version 0.75 (v0.75-alpha):
 - Data0 Editing Health Editing.
 - User Interface was added
 - Very Unstable (Bug, Not Feature).
 - Data Corrupts easily.
 - [Not Downloadable](https://cracko298.xyz/ErrorDwnl.html)
 
-# Version 0.5 (v0.5-alpha)
+# Version 0.5 (v0.5-alpha):
 - No UI, Console Application Only.
 - No status editing.
 - Writes 0x0F27 to any file named Data2 and on the first Four Bytes.
