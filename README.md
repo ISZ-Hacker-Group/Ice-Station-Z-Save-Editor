@@ -60,5 +60,5 @@ An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
 - No UI, Console Application Only.
 - No status editing.
 - Writes 0x0F27 to any file named Data2 and on the first Four Bytes.
-- Extremely Unstable.
+- Extremely Unstable. (Bug, Not Feature).
 - [Not Downloadable](https://cracko298.xyz/ErrorDwnl.html)
