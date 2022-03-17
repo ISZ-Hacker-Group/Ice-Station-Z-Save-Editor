@@ -6,14 +6,14 @@ An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
 - [Download Compiled](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8273861/Compiled.Script.v3.zip)
 
 # Version 3.0 Features:
-- All Save Slot Editing.
-- Includes Data3 Editing.
-- 9999 Health, Food, Water, Battery, Etc.
-- Two Spawn-Point Choices.
-- Better Debugger Information.
+- All Save Slot Editing. *(Data0, Data1, Data2, Data3)*
+- Submarine is a new Spawn-Point choice while Save-Editing.
 - Error Window Shows Application Error's
-- Better UI Elements
-- New(er) Updates coming soon...
+- Cleaner/Better UI Elements
+
+# Affiliated Repositories:
+- [TheRealYunix's Save Editor](https://github.com/TheRealYunix/Ice-Station-Z-Save-Editor)
+- [Ice Station Z Save-Editing Repository](https://github.com/Cracko298/Ice-Station-Z-Save-Editing)
 
 # How To Use:
 - Put the Data0, Data1, Data2, or Data3 file in the same directory as the *.py/.pyc/.exe* file.
@@ -35,7 +35,7 @@ An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
 - @Cracko298        *(Developer)*
 - @TheRealYunix     *(Inspiration)*
 - @GageCover        *(Tested Software)*
-- @OneEyedOwl       *(Tested Software)*
+- @Oneey2112        *(Tested Software)*
 
 # Legacy Version Feature(s):
 
