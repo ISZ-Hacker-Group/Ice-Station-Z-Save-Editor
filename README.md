@@ -8,7 +8,7 @@ An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
 
 # Version 4.0 Features:
 - All Save Slot Editing. *(Data0, Data1, Data2, Data3).*
-- Includes Buttons to Attempt to Un-Corrupt Data0, Data1, Data2.
+- Buttons to Fix Data Corruption. *Attempts to Fix Corrupted Save Data.*
 - Better Stabability.
 - Cleaner/Better UI Elements.
 
