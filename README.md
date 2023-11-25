@@ -6,6 +6,15 @@ An Open-Source Save-Editor for Ice Station Z 3DS Fully Written in Python.
 - [Download Compiled](https://github.com/Cracko298/Ice-Station-Z-Save-Editor/files/8352278/Compiled.Script.v5.zip)
 
 
+# WARNING!
+## NISZSE (New ISZ Save Editor):
+- **Has more features.**
+- **Better compatibility with plugins.**
+- **Can fix corrupted save-data.**
+- **View it [Here](https://github.com/Cracko298/NISZSE).**
+
+
+
 # Version 5.0 Features:
 - All Save Slot Editing. *(Data0, Data1, Data2, Data3).*
 - Better Corruption Fixer. *Attempts to Fix Corrupted Save Data.*
